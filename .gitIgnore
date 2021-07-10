@@ -1,0 +1,6 @@
+node_modules*
+tempoAuala.txt
+teste.ts
+yarn-error.log
+yarn.lock
+github.txt
